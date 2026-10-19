@@ -2,6 +2,7 @@
 
 Ajiは、ユーザーが詠んだ俳句をAIキャラクター「安治（Aji）」が講評し、AIの句と対決できるWebアプリです。  
 Azure AI Foundry上のOpenAI互換APIをLaravelから呼び出し、お題に対するユーザーの句を評価します。
+[SPAJAM 2026 第3回予選](https://www.craftstadium.com/hackathon/spajam-2026-online-3)での没案をLaravel学習のため開発
 
 ## 概要
 
