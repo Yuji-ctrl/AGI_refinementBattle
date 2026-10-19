@@ -58,7 +58,7 @@
                         <div class="w-2/12 flex items-center justify-center font-bold text-stone-400">VS</div>
                         <div class="w-5/12 text-center p-2 bg-red-50 rounded">
                             <span class="text-xs text-red-600 block mb-1">安治の句</span>
-                            <p class="font-bold">{{ $result['anji_haiku'] }}</p>
+                            <p class="font-bold">{{ $result['aji_haiku'] }}</p>
                         </div>
                     </div>
 
